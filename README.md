@@ -64,6 +64,7 @@ decided that it has value.
 - [3xpl: Fastest ad-free universal block explorer](https://3xpl.com)
 - [Blockchair: Universal blockchain explorer and search engine](https://blockchair.com)
 - [Address Checker: Identify malicious addresses and spam tokens](https://bac.nader.io)
+- [Kerne Verify Any Stablecoin: paste any Base or Ethereum stablecoin address for a live on-chain supply read and an honest split of what is self-verifiable vs attestor-trusted](https://kerne.fi/verify-anything)
 
 #### Developer Tools
 - [Remix: IDE for writing Solidity Smart Contracts](http://remix.ethereum.org/)
