@@ -85,6 +85,7 @@ decided that it has value.
 - [Dynamic: A powerful web3 auth developer platform.](https://www.dynamic.xyz)
 - [web3-ethereum-defi: Data research and trading library to work with DeFi for Python](https://web3-ethereum-defi.readthedocs.io/)
 - [Cannon: Like Terraform, Docker and NPM for Ethereum](https://usecannon.com)
+- [OpenChainBench: Independent open-source benchmarks for Ethereum and L2 RPC providers, gas oracles, and L2 finality across 22 chains. CC BY 4.0 data.](https://openchainbench.com)
 
 
 
