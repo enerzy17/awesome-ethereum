@@ -66,6 +66,9 @@ decided that it has value.
 - [Blockchair: Universal blockchain explorer and search engine](https://blockchair.com)
 - [Address Checker: Identify malicious addresses and spam tokens](https://bac.nader.io)
 
+#### Ethereum Clients
+- [py-ethclient](https://github.com/tokamak-network/py-ethclient) - Python Ethereum execution client built from scratch — EVM (140+ opcodes), RLPx, eth/68, snap/1, full & snap sync, Engine API, and JSON-RPC.
+
 #### Developer Tools
 - [Remix: IDE for writing Solidity Smart Contracts](http://remix.ethereum.org/)
 - [Meteor-dapp-cosmo: Meteor dapp for building and vetting solidity contracts](https://github.com/SilentCicero/meteor-dapp-cosmo)
